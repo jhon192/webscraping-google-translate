@@ -1,6 +1,7 @@
 
 # web scraping at google translate
 ## Installation
+#### python 3.*
 ```sh
 $ git clone webScraping.git
 $ cd webScraping
